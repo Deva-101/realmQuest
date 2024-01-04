@@ -1,0 +1,25 @@
+Welcome to REALM QUEST, where you, a new adventurer, are tasked with exploring the realm and finding treasure.
+
+Use WASD to change which cardinal direction you face.
+Then, use WASD to move one tile at a time. Some tiles can't be walked through.
+
+On your adventure, you may encounter some items in the world. To take an item, walk over
+it. The item will appear in your inventory. You may need to scroll to see all of your items.
+
+To use an item, click on it's button in your inventory.
+Some items, like HEALTH POTIONS, are consumable, meaning they are gone once used.
+Others, like SWORDS, may be used as many times as you want.
+
+The world consists of many rooms, connected by DOORS.
+Beware: Some DOORS are locked and require certain items to unlock.
+You will encounter enemies! Walk into enemies with a weapon to damage them.
+
+Always pay attention to your health bar at the top. If it reaches zero, then that's game over!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Created for the CSC207 2023 Final Project, by:
+Group 12: DAVID KOCHANSKI, HABEEB FADAK, & DEVESH AGGARWAL!
+
+Assets credits:
+Most tiles - Minecraft (Microsoft)
+Player Sprites - Pokemon Gold/Silver (Nintendo / GAME FREAK)
+
